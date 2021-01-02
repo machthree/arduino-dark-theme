@@ -64,7 +64,7 @@ linestatus.bgcolor = #35373b
 
 # foreground and background colors
 editor.fgcolor = #F8F8F2
-editor.bgcolor = #2c3037
+editor.bgcolor = #151515
 
 # highlight for the current line
 editor.linehighlight.color = #95A5A6
@@ -130,7 +130,7 @@ editor.label.style = #7e7e7e,bold
 
 
 # TEXT - COMMENTS
-editor.comment1.style = #434F54,plain
+editor.comment1.style = #95a5a6,plain
 editor.comment2.style = #95a5a6,plain
 
 
